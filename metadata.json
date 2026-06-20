@@ -1,0 +1,8 @@
+{
+  "name": "Gita AI",
+  "description": "Bhagavad Gita Wisdom & Practical Spiritual Life Guide powered by Gemini AI.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
